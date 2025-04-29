@@ -1,6 +1,6 @@
 # Version changelog
 
-## 0.19.0
+## 0.19.0-atlassian-REPLACE_VERSION
 
 Internal Changes:
 
